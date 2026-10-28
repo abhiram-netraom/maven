@@ -22,10 +22,10 @@ jobs:
           distribution: 'temurin'
 
       - name: Compile Java Program
-        run: javac test.java
+        run: javac exp5.java
 
       - name: Run Java Program
-        run: java test    
+        run: java exp5    
    
    
     
